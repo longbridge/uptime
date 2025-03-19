@@ -92,7 +92,7 @@
     "slug": "via-longbridgeapp-com",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "90.37%",
+    "uptimeDay": "98.75%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.70%",
@@ -1796,18 +1796,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.lbkrs.com.ico",
     "slug": "h5-pdf",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.98%",
     "time": 1157,
     "timeDay": 1320,
     "timeWeek": 1058,
     "timeMonth": 1005,
     "timeYear": 1189,
     "dailyMinutesDown": {
-      "2025-03-18": 9
+      "2025-03-19": 83,
+      "2025-03-18": 47
     }
   },
   {
@@ -1816,18 +1817,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/m.lbctrl.com.ico",
     "slug": "h5-pdf-lbctrl",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "90.98%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.96%",
     "time": 868,
     "timeDay": 778,
     "timeWeek": 1036,
     "timeMonth": 921,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2025-03-18": 9
+      "2025-03-19": 83,
+      "2025-03-18": 47
     }
   },
   {
@@ -2378,7 +2380,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 2678,
     "timeDay": 2059,
     "timeWeek": 2134,
@@ -2386,8 +2388,7 @@
     "timeYear": 2356,
     "dailyMinutesDown": {
       "2024-09-12": 34,
-      "2024-09-11": 47,
-      "2024-03-19": 116
+      "2024-09-11": 47
     }
   },
   {
