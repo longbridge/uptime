@@ -1,7 +1,7 @@
-url: https://longportapp.com/download/qr?app_id=longbridge
-status: up
-code: 200
-responseTime: 305
-lastUpdated: 2025-06-04T23:12:06.537Z
+url: https://longbridgeapp.com/download/qr
+status: down
+code: 502
+responseTime: 1742
+lastUpdated: 2025-06-05T23:20:34.829Z
 startTime: 2022-12-21T09:56:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
