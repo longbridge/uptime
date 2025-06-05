@@ -1,7 +1,7 @@
 url: https://longbridgeapp.com/leo
-status: up
-code: 200
-responseTime: 2297
-lastUpdated: 2025-06-04T23:14:02.290Z
+status: down
+code: 502
+responseTime: 1260
+lastUpdated: 2025-06-05T23:34:33.796Z
 startTime: 2022-12-21T10:45:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
