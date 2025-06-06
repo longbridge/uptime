@@ -1,7 +1,7 @@
 url: https://longbridgeapp.com/news/feed
-status: down
-code: 502
-responseTime: 166
-lastUpdated: 2025-06-05T23:25:00.011Z
+status: up
+code: 200
+responseTime: 1642
+lastUpdated: 2025-06-06T23:12:44.166Z
 startTime: 2022-12-21T09:56:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
