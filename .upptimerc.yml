@@ -16,19 +16,19 @@ workflowSchedule:
 sites:
   - name: longbridge.cn
     url: https://longbridge.cn
-  - name: Longbridge Web (longbridgeapp.com)
-    url: https://longbridgeapp.com
+  - name: Longbridge Web (longbridge.com)
+    url: https://longbridge.com
     headers:
       - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     assignees:
       - ihavecoke
-  - name: LongPort Web (longportapp.com)
-    url: https://longportapp.com
+  - name: Longbridge Web (longbridge.com)
+    url: https://longbridge.com
     headers:
       - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     assignees:
       - ihavecoke
-  - name: LongPort Web CN (longportapp.cn)
+  - name: Longbridge Web CN (longportapp.cn)
     url: https://longportapp.cn
     headers:
       - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
@@ -36,8 +36,8 @@ sites:
       - 200
     assignees:
       - ihavecoke
-  - name: 小程序 - 个股详情页面 (via longbridgeapp.com)
-    url: https://longbridgeapp.com/quote/00700.HK?source_app=longbridge
+  - name: 小程序 - 个股详情页面 (via longbridge.com)
+    url: https://longbridge.com/quote/00700.HK?source_app=longbridge
     headers:
       - "User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; MI 6 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/043807 Mobile Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/4G Language/zh_CN MicroMessenger/6.6.1.1220(0x26060135) NetType/4G Language/zh_CN miniProgram"
     assignees:
@@ -71,23 +71,23 @@ sites:
 
   # Download pages
   - name: Download - Longbridge App (Legacy)
-    url: https://longbridgeapp.com/download
+    url: https://longbridge.com/download
     assignees:
       - ihavecoke
-  - name: Download - LongPort App (Legacy)
-    url: https://longportapp.com/longport/download
+  - name: Download - Longbridge App (Legacy)
+    url: https://longbridge.com/longport/download
     assignees:
       - ihavecoke
   - name: Download - Longbridge App
-    url: https://longportapp.com/download/longbridge
+    url: https://longbridge.com/download/longbridge
     assignees:
       - ihavecoke
-  - name: Download - LongPort App
-    url: https://longportapp.com/download
+  - name: Download - Longbridge App
+    url: https://longbridge.com/download
   - name: Download - Longbridge App QRCode (Legacy)
-    url: https://longbridgeapp.com/download/qr
+    url: https://longbridge.com/download/qr
   - name: Download - Longbridge App QRCode (Legacy)
-    url: https://longportapp.com/download/qr?app_id=longbridge
+    url: https://longbridge.com/download/qr?app_id=longbridge
   - name: Download - Activity Download (Legacy)
     url: https://activity.lbkrs.com/m/download
   - name: H5 - Portal App Download
@@ -97,103 +97,103 @@ sites:
   - name: H5 - 下载页 (重定向到 longbridge.hk/zh-CN/download)
     url: https://activity.longbridgehk.com/m/download
 
-  # LongPort Web - Pages
-  - name: LongPort Web - 公告 - 列表
-    url: https://longportapp.com/announcements
+  # Longbridge Web - Pages
+  - name: Longbridge Web - 公告 - 列表
+    url: https://longbridge.com/announcements
     assignees:
       - hold-baby
-  - name: LongPort Web - 资讯列表
-    url: https://longportapp.com/news
+  - name: Longbridge Web - 资讯列表
+    url: https://longbridge.com/news
     assignees:
       - hold-baby
-  - name: LongPort Web - 资讯 - 长桥日报
-    url: https://longportapp.com/news/node/daily
+  - name: Longbridge Web - 资讯 - 长桥日报
+    url: https://longbridge.com/news/node/daily
     assignees:
       - hold-baby
-  - name: LongPort Web - 资讯 - 动态新闻
-    url: https://longportapp.com/news/node/dynamic
+  - name: Longbridge Web - 资讯 - 动态新闻
+    url: https://longbridge.com/news/node/dynamic
     assignees:
       - hold-baby
-  - name: LongPort Web - 资讯 - 海豚投研
-    url: https://longportapp.com/news/dolphin
+  - name: Longbridge Web - 资讯 - 海豚投研
+    url: https://longbridge.com/news/dolphin
     assignees:
       - hold-baby
-  - name: LongPort Web - 资讯 - 长桥资讯
-    url: https://longportapp.com/news/information
+  - name: Longbridge Web - 资讯 - 长桥资讯
+    url: https://longbridge.com/news/information
     assignees:
       - hold-baby
-  - name: LongPort Web - 资讯阅读页面
-    url: https://longportapp.com/news/93730049
+  - name: Longbridge Web - 资讯阅读页面
+    url: https://longbridge.com/news/93730049
     assignees:
       - hold-baby
-  - name: LongPort Web - 个人 Profile
-    url: https://longportapp.com/profiles/6539443
+  - name: Longbridge Web - 个人 Profile
+    url: https://longbridge.com/profiles/6539443
     assignees:
       - hold-baby
-  - name: LongPort Web - 个人主页 - 原创列表
-    url: https://longportapp.com/profiles/6539443
+  - name: Longbridge Web - 个人主页 - 原创列表
+    url: https://longbridge.com/profiles/6539443
     assignees:
       - hold-baby
-  - name: LongPort Web - 个人主页 - 关注者列表
-    url: https://longportapp.com/profiles/6539443/followers
+  - name: Longbridge Web - 个人主页 - 关注者列表
+    url: https://longbridge.com/profiles/6539443/followers
     assignees:
       - hold-baby
-  - name: LongPort Web - 个人主页 - 关注列表
-    url: https://longportapp.com/profiles/6539443/followers
+  - name: Longbridge Web - 个人主页 - 关注列表
+    url: https://longbridge.com/profiles/6539443/followers
     assignees:
       - hold-baby
-  - name: LongPort Web - 个人主页 - 股票视图
-    url: https://longportapp.com/profiles/6539443/stocks-view
+  - name: Longbridge Web - 个人主页 - 股票视图
+    url: https://longbridge.com/profiles/6539443/stocks-view
     assignees:
       - hold-baby
-  - name: LongPort Web - Hashtag 话题 - 详情列表
-    url: https://longportapp.com/hash/310330
+  - name: Longbridge Web - Hashtag 话题 - 详情列表
+    url: https://longbridge.com/hash/310330
     assignees:
       - hold-baby
-  - name: LongPort Web - 话题 - 详情热门列表
-    url: https://longportapp.com/hash/310330/hot
+  - name: Longbridge Web - 话题 - 详情热门列表
+    url: https://longbridge.com/hash/310330/hot
     assignees:
       - hold-baby
-  - name: LongPort Web - Login
-    url: https://longbridgeapp.com/login
-  - name: LongPort Web - Forget Password
-    url: https://longportapp.com/password/reset
-  - name: LongPort Web - 媒体报道
-    url: https://longportapp.com/report
-  - name: LongPort Web - 企业员工认证
-    url: https://longbridgeapp.com/company-verify
-  - name: LongPort Web - Jobs
-    url: https://longbridgeapp.com/jobs?city=jobs-sg
-  - name: LongPort Web - Jobs - Detail
-    url: https://longbridgeapp.com/jobs/45tnnqw?city=jobs-sg
-  - name: LongPort Web - 股单介绍
-    url: https://longbridgeapp.com/sharelist/126690
+  - name: Longbridge Web - Login
+    url: https://longbridge.com/login
+  - name: Longbridge Web - Forget Password
+    url: https://longbridge.com/password/reset
+  - name: Longbridge Web - 媒体报道
+    url: https://longbridge.com/report
+  - name: Longbridge Web - 企业员工认证
+    url: https://longbridge.com/company-verify
+  - name: Longbridge Web - Jobs
+    url: https://longbridge.com/jobs?city=jobs-sg
+  - name: Longbridge Web - Jobs - Detail
+    url: https://longbridge.com/jobs/45tnnqw?city=jobs-sg
+  - name: Longbridge Web - 股单介绍
+    url: https://longbridge.com/sharelist/126690
 
-  # LongPort Feed API
-  - name: LongPort Feed - News
-    url: https://longbridgeapp.com/news/feed
-  - name: LongPort Feed - Live
-    url: https://longbridgeapp.com/news/live/feed
-  - name: LongPort Feed - Live
-    url: https://longbridgeapp.com/news/live/feed
-  - name: LongPort Feed - Topic
-    url: https://longbridgeapp.com/topics/feed
-  - name: LongPort Feed - News of BABA.US
-    url: https://longbridgeapp.com/quote/BABA.US/news/feed
+  # Longbridge Feed API
+  - name: Longbridge Feed - News
+    url: https://longbridge.com/news/feed
+  - name: Longbridge Feed - Live
+    url: https://longbridge.com/news/live/feed
+  - name: Longbridge Feed - Live
+    url: https://longbridge.com/news/live/feed
+  - name: Longbridge Feed - Topic
+    url: https://longbridge.com/topics/feed
+  - name: Longbridge Feed - News of BABA.US
+    url: https://longbridge.com/quote/BABA.US/news/feed
 
-  # LongPort Sitemap
-  - name: LongPort Sitemap - News (Page)
-    url: https://longportapp.com/sitemap/news.html
-  - name: LongPort Sitemap - News (XML)
-    url: https://longportapp.com/news/sitemap
-  - name: LongPort Sitemap - Topic (Page)
-    url: https://longportapp.com/sitemap/topics.html
-  - name: LongPort Sitemap - Stock (Page)
-    url: https://longportapp.com/sitemap/quote.html
-  - name: LongPort Sitemap - Live (Page)
-    url: https://longportapp.com/sitemap/lives.html
-  - name: LongPort Sitemap - Live (XML)
-    url: https://longbridgeapp.com/news/live/sitemap
+  # Longbridge Sitemap
+  - name: Longbridge Sitemap - News (Page)
+    url: https://longbridge.com/sitemap/news.html
+  - name: Longbridge Sitemap - News (XML)
+    url: https://longbridge.com/news/sitemap
+  - name: Longbridge Sitemap - Topic (Page)
+    url: https://longbridge.com/sitemap/topics.html
+  - name: Longbridge Sitemap - Stock (Page)
+    url: https://longbridge.com/sitemap/quote.html
+  - name: Longbridge Sitemap - Live (Page)
+    url: https://longbridge.com/sitemap/lives.html
+  - name: Longbridge Sitemap - Live (XML)
+    url: https://longbridge.com/news/live/sitemap
 
   # Activity 活动页面
   - name: Activity - 2022NewAct (CN)
@@ -283,7 +283,7 @@ sites:
   - name: H5 - 产业链
     url: https://app.lbkrs.com/community/industrial-chains/1483?share=true
   - name: H5 - Who's LEO
-    url: https://longbridgeapp.com/leo
+    url: https://longbridge.com/leo
   - name: H5 - 获取服务端时间
     url: https://m.lbkrs.com/api/_ping
   - name: H5 - 获取服务端时间 - lbctrl
@@ -297,7 +297,7 @@ sites:
   - name: H5 - 超链接白名单跳转 (Pass) - lbctrl
     url: https://m.lbctrl.com/link?url=https://longbridge.hk
   - name: H5 - 学院课程
-    url: https://longportapp.com/community/course/56
+    url: https://longbridge.com/community/course/56
   - name: H5 - Longbridge Pro - What's New
     url: https://activity.lbkrs.com/pipeline/longbridgePro/index.html
 
@@ -330,20 +330,20 @@ sites:
     url: https://support.longbridgeapp.com/topics/misc/sdk
 
   # Sitemap & Feed
-  - name: Sitemap - https://longportapp.com/sitemap/news.html
-    url: https://longportapp.com/sitemap/news.html
-  - name: Sitemap - https://longportapp.com/sitemap/quote.html
-    url: https://longportapp.com/sitemap/quote.html
-  - name: Sitemap - https://longportapp.com/sitemap/topics.html
-    url: https://longportapp.com/sitemap/topics.html
-  - name: Sitemap - https://longportapp.com/sitemap/lives.html
+  - name: Sitemap - https://longbridge.com/sitemap/news.html
+    url: https://longbridge.com/sitemap/news.html
+  - name: Sitemap - https://longbridge.com/sitemap/quote.html
+    url: https://longbridge.com/sitemap/quote.html
+  - name: Sitemap - https://longbridge.com/sitemap/topics.html
+    url: https://longbridge.com/sitemap/topics.html
+  - name: Sitemap - https://longbridge.com/sitemap/lives.html
     url: https://longportapp.cn/sitemap/lives.html
   - name: Feed - News
-    url: https://longportapp.com/news/feed
+    url: https://longbridge.com/news/feed
   - name: Feed - News / Live
-    url: https://longportapp.com/news/live/feed
+    url: https://longbridge.com/news/live/feed
   - name: Feed - Topics
-    url: https://longportapp.com/topics/feed
+    url: https://longbridge.com/topics/feed
   - name: Feed - Quote / News / Feed
-    url: https://longportapp.com/quote/BABA.US/news/feed
+    url: https://longbridge.com/quote/BABA.US/news/feed
 
