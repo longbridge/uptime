@@ -1,7 +1,7 @@
-url: https://longbridge.com/download
-status: up
-code: 200
-responseTime: 1463
-lastUpdated: 2026-01-13T23:13:29.810Z
+url: https://longbridge.com/longport/download
+status: down
+code: 404
+responseTime: 523
+lastUpdated: 2026-01-13T23:13:33.716Z
 startTime: 2022-12-21T09:56:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
