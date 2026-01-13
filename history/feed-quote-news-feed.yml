@@ -1,7 +1,7 @@
-url: https://longportapp.com/quote/BABA.US/news/feed
-status: down
-code: 404
-responseTime: 451
-lastUpdated: 2026-01-12T23:14:00.714Z
+url: https://longbridge.com/quote/BABA.US/news/feed
+status: up
+code: 200
+responseTime: 1244
+lastUpdated: 2026-01-13T23:15:45.721Z
 startTime: 2023-01-17T03:07:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
