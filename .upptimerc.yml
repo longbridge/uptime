@@ -84,10 +84,10 @@ sites:
       - ihavecoke
   - name: Download - Longbridge App
     url: https://longbridge.com/download
-  - name: Download - Longbridge App QRCode (Legacy)
-    url: https://longbridge.com/download/qr
-  - name: Download - Longbridge App QRCode (Legacy)
-    url: https://longbridge.com/download/qr?app_id=longbridge
+  # - name: Download - Longbridge App QRCode (Legacy)
+  #   url: https://longbridge.com/download/qr
+  # - name: Download - Longbridge App QRCode (Legacy)
+  #   url: https://longbridge.com/download/qr?app_id=longbridge
   - name: Download - Activity Download (Legacy)
     url: https://activity.lbkrs.com/m/download
   - name: H5 - Portal App Download
