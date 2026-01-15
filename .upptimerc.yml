@@ -74,8 +74,8 @@ sites:
     url: https://longbridge.com/download
     assignees:
       - ihavecoke
-  - name: Download - Longbridge App (Legacy)
-    url: https://longbridge.com/longport/download
+  # - name: Download - Longbridge App (Legacy)
+  #   url: https://longbridge.com/longport/download
     assignees:
       - ihavecoke
   - name: Download - Longbridge App
