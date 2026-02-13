@@ -347,3 +347,30 @@ sites:
   - name: Feed - Quote / News / Feed
     url: https://longbridge.com/quote/BABA.US/news/feed
 
+  # ============================================================
+  # OpenAPI Docs - Markdown 格式守护监控
+  # 目的：确保 open.longbridge.com/docs 在请求 Accept: text/markdown
+  #       时返回的内容是 Markdown 格式而非 HTML。
+  # ============================================================
+  - name: OpenAPI Docs Markdown - REST API (Quote)
+    url: https://open.longbridge.com/docs/quote/pull/static
+    headers:
+      - "Accept: text/markdown"
+      - "User-Agent: Upptime/Longbridge-Markdown-Monitor"
+    __dangerous__body_down: "<html"
+    __dangerous__body_down_if_text_missing: "#"
+    assignees:
+      - ihavecoke
+      - hold-baby
+
+  - name: OpenAPI Docs Markdown - REST API (Trade)
+    url: https://open.longbridge.com/docs/trade/order/submit
+    headers:
+      - "Accept: text/markdown"
+      - "User-Agent: Upptime/Longbridge-Markdown-Monitor"
+    __dangerous__body_down: "<html"
+    __dangerous__body_down_if_text_missing: "#"
+    assignees:
+      - ihavecoke
+      - hold-baby
+
