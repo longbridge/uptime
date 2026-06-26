@@ -1,7 +1,7 @@
 url: https://longbridge.com/quote/BABA.US/news/feed
-status: down
-code: 404
-responseTime: 285
-lastUpdated: 2026-06-26T00:04:26.743Z
+status: up
+code: 200
+responseTime: 558
+lastUpdated: 2026-06-26T23:56:16.613Z
 startTime: 2026-01-13T23:14:29.630Z
 generator: Upptime <https://github.com/upptime/upptime>
