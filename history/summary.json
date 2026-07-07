@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.cn.ico",
     "slug": "longbridge-web-cn-longportapp-cn",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "85.65%",
-    "uptimeMonth": "96.70%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.39%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "84.92%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "99.39%",
     "time": 3998,
     "timeDay": 1171,
     "timeWeek": 4959,
@@ -75,7 +75,7 @@
     "dailyMinutesDown": {
       "2026-07-05": 1437,
       "2026-07-04": 6,
-      "2026-07-07": 2,
+      "2026-07-07": 76,
       "2026-07-06": 1
     }
   },
@@ -2125,11 +2125,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.cn.ico",
     "slug": "sitemap-https-longbridge-com-sitemap-lives-html",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "85.56%",
-    "uptimeMonth": "96.68%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.39%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "84.95%",
+    "uptimeMonth": "96.54%",
+    "uptimeYear": "99.39%",
     "time": 2574,
     "timeDay": 1141,
     "timeWeek": 4498,
@@ -2138,7 +2138,7 @@
     "dailyMinutesDown": {
       "2026-07-05": 1440,
       "2026-07-04": 4,
-      "2026-07-07": 11
+      "2026-07-07": 74
     }
   },
   {
