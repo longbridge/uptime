@@ -1,7 +1,7 @@
-url: https://longbridge.com/news/node/daily
-status: up
-code: 200
-responseTime: 514
-lastUpdated: 2026-07-17T23:43:03.270Z
+url: https://longbridge.com/news/node/dynamic
+status: down
+code: 404
+responseTime: 457
+lastUpdated: 2026-07-17T23:43:16.641Z
 startTime: 2026-01-13T23:13:52.549Z
 generator: Upptime <https://github.com/upptime/upptime>
