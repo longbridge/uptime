@@ -337,7 +337,7 @@ sites:
   - name: Sitemap - https://longbridge.com/sitemap/topics.html
     url: https://longbridge.com/sitemap/topics.html
   - name: Sitemap - https://longbridge.com/sitemap/lives.html
-    url: https://longportapp.cn/sitemap/lives.html
+    url: https://longbridge.com/sitemap/lives.html
   - name: Feed - News
     url: https://longbridge.com/news/feed
   - name: Feed - News / Live
