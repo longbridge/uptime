@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longportapp.cn.ico",
     "slug": "longbridge-web-cn-longportapp-cn",
     "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "96.33%",
-    "uptimeYear": "99.04%",
+    "uptime": "99.03%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "99.03%",
     "time": 5919,
     "timeDay": 8445,
     "timeWeek": 12998,
@@ -85,7 +85,7 @@
       "2026-08-07": 35,
       "2026-08-12": 115,
       "2026-08-11": 30,
-      "2026-09-02": 2
+      "2026-09-02": 34
     }
   },
   {
