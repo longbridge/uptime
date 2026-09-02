@@ -163,9 +163,9 @@ sites:
   - name: Longbridge Web - 企业员工认证
     url: https://longbridge.com/company-verify
   - name: Longbridge Web - Jobs
-    url: https://longbridge.com/jobs?city=jobs-sg
+    url: https://longbridge.com/sg/jobs
   - name: Longbridge Web - Jobs - Detail
-    url: https://longbridge.com/jobs/45tnnqw?city=jobs-sg
+    url: https://longbridge.com/sg/jobs/577d20de-2204-4781-8473-252903234e30
   - name: Longbridge Web - 股单介绍
     url: https://longbridge.com/sharelist/126690
 
