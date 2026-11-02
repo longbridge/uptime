@@ -790,11 +790,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridge.com.ico",
     "slug": "longbridge-web-hashtag",
     "status": "down",
-    "uptime": "99.31%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "71.08%",
-    "uptimeMonth": "93.34%",
-    "uptimeYear": "99.31%",
+    "uptime": "99.27%",
+    "uptimeDay": "89.38%",
+    "uptimeWeek": "69.62%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "99.27%",
     "time": 1039,
     "timeDay": 1530,
     "timeWeek": 716,
@@ -805,7 +805,7 @@
       "2026-10-27": 1334,
       "2026-10-30": 138,
       "2026-10-29": 1318,
-      "2026-11-02": 6
+      "2026-11-02": 153
     }
   },
   {
@@ -940,11 +940,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/longbridge.com.ico",
     "slug": "longbridge-web-jobs",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "85.52%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.62%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "84.06%",
+    "uptimeMonth": "96.33%",
+    "uptimeYear": "99.62%",
     "time": 1152,
     "timeDay": 276,
     "timeWeek": 1030,
@@ -953,7 +953,7 @@
     "dailyMinutesDown": {
       "2026-10-28": 121,
       "2026-10-27": 1333,
-      "2026-11-02": 6
+      "2026-11-02": 153
     }
   },
   {
@@ -963,7 +963,7 @@
     "slug": "longbridge-web-jobs-detail",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "0.41%",
+    "uptimeDay": "10.61%",
     "uptimeWeek": "71.09%",
     "uptimeMonth": "93.20%",
     "uptimeYear": "99.27%",
