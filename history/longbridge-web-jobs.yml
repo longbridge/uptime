@@ -1,7 +1,7 @@
 url: https://longbridge.com/sg/jobs
-status: up
-code: 200
-responseTime: 1037
-lastUpdated: 2026-11-01T01:42:24.982Z
+status: down
+code: 429
+responseTime: 276
+lastUpdated: 2026-11-02T02:02:52.750Z
 startTime: 2026-01-13T23:14:20.028Z
 generator: Upptime <https://github.com/upptime/upptime>
